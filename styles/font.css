@@ -1,0 +1,27 @@
+/*file declaration*/
+@font-face {
+    font-family: robotbold;
+    src: url(../fonts/Roboto-Bold.ttf);
+  }
+  @font-face {
+    font-family: robotlight;
+    src: url(../fonts/Roboto-Light.ttf);
+  }
+  @font-face {
+    font-family: robotmedium;
+    src: url(../fonts/Roboto-Medium.ttf);
+  }
+  @font-face {
+    font-family: robotregular;
+    src: url(../fonts/Roboto-Regular.ttf);
+  }
+  
+  @font-face {
+    font-family: poppinsregular;
+    src: url(../fonts/Poppins-Regular.ttf);  }
+
+  
+    @font-face {
+      font-family: poppinsmedium;
+      src: url(../fonts/Poppins-Medium.ttf);  }
+    
